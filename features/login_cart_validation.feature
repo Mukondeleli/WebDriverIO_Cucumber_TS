@@ -9,5 +9,5 @@ Feature: Login and Cart Functionality
     Then the cart should be empty
 
     Examples:
-      | username      | password     | ProductName             |
+      | username      | password     | productName             |
       | standard_user | secret_sauce | Sauce Labs Bolt T-Shirt |
