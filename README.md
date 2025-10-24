@@ -3,7 +3,7 @@
 #Run Tests
 first run the following command on terminal - npm install
 To run on local machine, run the following command on terminal - npm run test:local
-To run lambdatest, run the following command on terminal - npm run test:lambdatest
+To run lambdatest, run the following command on terminal - npm run test:lambdatest  - use your own credentials and add the to .env
 
 #Improvements 
 Include video recording during execution
